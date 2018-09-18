@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+
+}
+
+h1 {
+  color: blue;
+}
+
+.colleges li {
+  background-color: #c83;
+}
+
+
+.topics ul {
+  list-style-type: none;
+}
+
+div figure {
+  display: inline-block;
+}
+
+figure img {
+  max-width: 300px;
+  margin: 20px 20px 20px 20px;
+  /* it will be the same just  margin:20px  */
+}
+
+
+
+div last-of-type {
+  content: url('img/pulp.jpg' );
+}
